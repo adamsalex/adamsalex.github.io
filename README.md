@@ -1,2 +1,2 @@
-# mobile.github.io
+# adamsalex.github.io
 Test Mobile
